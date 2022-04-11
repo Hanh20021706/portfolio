@@ -20,19 +20,19 @@ const NavAdmin = () => {
                     </a> */}
                     </li>
                     <li>
-                        <Link to={'/admin/about'}>
+                        <Link to={'/admin/abouts'}>
                             About Me
                         </Link>
 
                     </li>
                     <li>
-                        <Link to={'/admin/project'}>
+                        <Link to={'/admin/skills'}>
                             Skills
                         </Link>
 
                     </li>
                     <li>
-                        <Link to={'/admin/skills'}>
+                        <Link to={'/admin/project'}>
 
                       
                                 project

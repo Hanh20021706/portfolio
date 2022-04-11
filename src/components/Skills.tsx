@@ -9,24 +9,7 @@ const Skills = () => {
                         <h2>Skills</h2>
                     </div>
                 </div>
-                <div className="row row-pb-md">
-                    <div className="col-md-3 col-sm-6 col-xs-12 text-center">
-                        <div className="chart" data-percent={95}><span><strong>HTML5</strong>95%</span></div>
-                    </div>
-                    <div className="col-md-3 col-sm-6 col-xs-12 text-center">
-                        <div className="chart" data-percent={93}><span><strong>CSS3</strong>93%</span></div>
-                    </div>
-
-                    <div className="col-md-3 col-sm-6 col-xs-12 text-center">
-                        <div className="chart" data-percent={89}><span><strong>PHP</strong>89%</span></div>
-                    </div>
-                   
-                    
-                  
-                    <div className="col-md-3 col-sm-6 col-xs-12 text-center">
-                        <div className="chart" data-percent={90}><span><strong>Javasctrips</strong>90%</span></div>
-                    </div>
-                </div>
+              
                 <div className="row">
                     <div className="col-md-6">
                         <div className="progress-wrap">
